@@ -1,11 +1,27 @@
 package edu.wit.cs.comp1050;
 
-// TODO: document this class
+
+/**
+ * Here I will solve PA1a
+ * 
+ * @author turnerj8
+ *
+ */
 public class PA1a {
 
-	// TODO: document this method
+	
+	/**
+	 * Prints Hello World! to the console
+	 *  
+	 * @param args
+	 */
 	public static void main(String[] args) {
-		// TODO: write your code here
+		
+		
+		/**
+		 * Hello World!
+		 */
+		System.out.println("Hello World!");
 	}
 
 }
